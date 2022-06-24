@@ -5,3 +5,5 @@ Segunda linea de fichero 1
 >>>>>>> b32afde6b1ebb52b02353c2dd13b99865e76d825
 
 Tercera linea de fichero 1
+
+prueba ordenador casa
