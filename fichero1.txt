@@ -6,4 +6,3 @@ Segunda linea de fichero 1
 
 Tercera linea de fichero 1
 
-prueba ordenador casa

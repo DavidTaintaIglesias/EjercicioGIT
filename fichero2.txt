@@ -1,4 +1,2 @@
 Primera linea de fichero 2
 Segunda lines de fichero 2
-
-2 prueba casa
